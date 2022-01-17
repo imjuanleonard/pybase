@@ -5,5 +5,5 @@ Pybase is a python base project and can be used as a template to create any pyth
 # Dependencies
 
 ```
-Python 3.7
+Python 3.9
 ```
